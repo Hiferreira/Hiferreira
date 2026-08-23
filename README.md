@@ -1,15 +1,15 @@
 # Olá, eu sou Rayane Ferreira! 👋
 
-Estudante de Desenvolvimento de Sistemas, com interesse em tecnologia, gestão financeira e soluções digitais.
+Estudante de Desenvolvimento de Sistemas e graduanda em Gestão Financeira, buscando unir tecnologia e finanças na criação de soluções digitais úteis.
 
 ## Sobre mim
 
 - 🎓 Graduanda em Gestão Financeira
 - 💻 Cursando Técnico em Desenvolvimento de Sistemas
 - 🐍 Estudando Python, HTML e CSS
+- 📊 Desenvolvendo planilhas, dashboards e ferramentas de organização financeira
 - 🔎 Explorando desenvolvimento, dados e cibersegurança
 - 🌍 Inglês em desenvolvimento
-- 🚀 Construindo projetos e aprendendo todos os dias
 
 ## Tecnologias que estudo
 
@@ -19,11 +19,18 @@ Estudante de Desenvolvimento de Sistemas, com interesse em tecnologia, gestão f
   <img alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
+## Ferramentas que utilizo
+
+- Microsoft Excel
+
 ## Projetos de Gestão Financeira
 
-- [Projeto de Investimento](https://github.com/Hiferreira/Projeto-Investimento)
-- [Projeto Fiscal](https://github.com/Hiferreira/projeto-fiscal)
-- [Projeto Dashboard](https://github.com/Hiferreira/Projeto-Dashboard)
+- [OwlFiscal](https://github.com/Hiferreira/projeto-fiscal) — Planilha para organização de dados, informes de rendimentos e documentos fiscais.
+- [Controle de Investimentos](https://github.com/Hiferreira/Projeto-Investimento) — Simulador de investimentos mensais, patrimônio, dividendos e cenários.
+
+## Dashboards e Análise de Dados
+
+- [Dashboard Xbox Game Pass](https://github.com/Hiferreira/Projeto-Dashboard) — Dashboard interativo em Excel para análise de vendas e assinaturas.
 
 ## Como me encontrar
 

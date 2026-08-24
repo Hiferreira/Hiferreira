@@ -14,9 +14,9 @@ Estudante de Desenvolvimento de Sistemas e graduanda em Gestão Financeira, busc
 ## Tecnologias que estudo
 
 <div>
-  <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;&nbsp;
+  <img alt="HTML5" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">&nbsp;&nbsp;
+  <img alt="CSS3" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
 ## Ferramentas que utilizo
@@ -34,8 +34,6 @@ Estudante de Desenvolvimento de Sistemas e graduanda em Gestão Financeira, busc
 
 ## Como me encontrar
 
-## Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ray-ferreira-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ray-ferreira-/)
 [![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=flat&logo=gmail&logoColor=EA4335)](mailto:rayane.ferreira.tech@icloud.com)
 [![Substack](https://img.shields.io/badge/Substack-FFFFFF?style=flat&logo=substack&logoColor=FF6719)](https://substack.com/@hiferreira)
